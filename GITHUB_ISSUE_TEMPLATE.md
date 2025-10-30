@@ -1,9 +1,3 @@
-# GitHub Issue Template for Rails
-
-Copy this template when reporting the bug to Rails: https://github.com/rails/rails/issues/new
-
----
-
 ## Bug Report: Incorrect class instantiation with nested includes() on associations with same table name
 
 ### Description
