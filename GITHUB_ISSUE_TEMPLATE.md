@@ -173,4 +173,4 @@ Alternatively, modify `group_and_load_similar` to group by both query and klass 
 
 ### Full Reproduction Repository
 
-Complete reproduction with tests and documentation: [Add your repo URL here]
+Complete reproduction with tests and documentation: https://github.com/d4be4st/rails-includes-issue
